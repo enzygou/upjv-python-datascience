@@ -1,6 +1,6 @@
 """# Python & Data Science — UPJV Amiens
 
-**Étudiant·e :** Prénom Nom
+**Étudiant·e :** Enzy Piat
 **Formation :** L3 Économie / M1 Économie
 **Année :** 2026-2027
 
