@@ -1,3 +1,0 @@
--Colab
--Pandas
--Matplotlib
